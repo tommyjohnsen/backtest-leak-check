@@ -1,3 +1,9 @@
+<!--
+PROVENANCE (mirror of .provenance/ledger.jsonl; ledger wins)
+written-by: unknown (pre-provenance) | 2026-10-13 | e10f0e8
+modified-by: codex/gpt-5.6-sol | 2026-10-26 | pending | provenance block added
+END PROVENANCE
+-->
 # backtest-leak-check
 
 `backtest-leak-check` is a small Python library and CLI for detecting future-bar leakage in event-driven backtests. It is strategy-agnostic and has no network or data-provider dependency.

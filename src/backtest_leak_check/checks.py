@@ -3,6 +3,7 @@
 # modified-by: codex/gpt-5.6-sol | 2026-10-26 | f566a55 | provenance block added
 # reviewed-by: claude-code/claude-opus-5-5 | 2026-10-26 | APPROVE
 # reviewed-by: grok-build/grok-4.7 | 2026-10-26 | APPROVE
+# reviewed-by: grok-build/grok-4.7 | 2026-10-26 | APPROVE_WITH_NITS
 # END PROVENANCE
 """Temporal availability and truncation checks for OHLCV backtests."""
 
